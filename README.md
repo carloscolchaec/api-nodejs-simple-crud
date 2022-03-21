@@ -15,4 +15,5 @@ To start using the simple api, you need to install the dependencies using "npm i
 to use the api you need to import the sql to your database with the name: node-api-sql-crud-simple.sql
 
 Screenshot: 
+
 ![image](https://user-images.githubusercontent.com/99460391/159330056-cca38fbb-4a94-4932-9591-26e9489acbfe.png)
